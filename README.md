@@ -20,3 +20,9 @@ Camera → YOLO detection → Pixel-to-mm transform → Robot motion via XML-RPC
 - YOLO
 - Fairino SDK
 - XML-RPC
+
+
+## Demo
+
+[Watch demo video]
+(https://www.youtube.com/shorts/mmUYt793KMI)
